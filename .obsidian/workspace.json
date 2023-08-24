@@ -128,13 +128,21 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "48b296db527d8218",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,7 +153,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3b554601369c38b0",
+  "active": "48b296db527d8218",
   "lastOpenFiles": [
     "README.md"
   ]
