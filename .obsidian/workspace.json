@@ -11,9 +11,10 @@
             "id": "8046eda22e2552e6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "diff-view",
               "state": {
-                "file": "KANBAN.md"
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -83,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KANBAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KANBAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KANBAN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "KANBAN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,12 +177,12 @@
   },
   "active": "8046eda22e2552e6",
   "lastOpenFiles": [
+    "Tags.md",
+    "README.md",
     "KANBAN.md",
     "全符号速查 备份.md",
     "新建 文本文档.txt",
     "TODO.md",
-    "Tags.md",
-    "README.md",
     "全符号速查.md",
     "草稿/草稿 1.md",
     "草稿/草稿.md",
