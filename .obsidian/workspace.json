@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb5e89f358714ed8",
+        "id": "f24ea501d72bb5f7",
         "type": "tabs",
         "children": [
           {
-            "id": "3b554601369c38b0",
+            "id": "0bbc00aa691648f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,6 +126,32 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bd7e64da9f4239a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "684860d7a9348d2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "a24b74b534a3d02b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -150,11 +168,56 @@
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "templates:插入模板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "48b296db527d8218",
+  "active": "0bbc00aa691648f8",
   "lastOpenFiles": [
-    "README.md"
+    "全符号速查 备份.md",
+    "新建 文本文档.txt",
+    "KANBAN.md",
+    "TODO.md",
+    "Tags.md",
+    "README.md",
+    "全符号速查.md",
+    "草稿/草稿 1.md",
+    "草稿/草稿.md",
+    "草稿",
+    "Excalidraw/时间表.md",
+    "计算机/毕设/ppt稿子.md",
+    "计算机/毕设/proposal.md",
+    "计算机/毕设/基于LLM的学习导师.md",
+    "计算机/毕设/毕设指导/快速入门指南.md",
+    "计算机/毕设/信息.md",
+    "计算机/毕设/硕士.md",
+    "计算机/毕设/想法.md",
+    "计算机/毕设/想法2.md",
+    "计算机/毕设/素材/khanmigo.md",
+    "计算机/毕设/素材/渐构学习观/未命名.md",
+    "计算机/毕设/素材/AI+学习 碳十二.md",
+    "计算机/毕设/邮件.md",
+    "模板/word.md",
+    "英语/单词/2023-09-17.md",
+    "游戏开发/godot/godot docs/文档.md",
+    "计算机/机器学习/课堂笔记/1.3 逻辑回归.md",
+    "计算机/神经计算/练习",
+    "计算机/神经计算/课堂笔记/attachments/机器学习类型.webp",
+    "计算机/神经计算/课堂笔记/attachments/过拟合与欠拟合.png",
+    "计算机/神经计算/课堂笔记/attachments",
+    "计算机/神经计算/课堂笔记",
+    "计算机/毕设/素材/渐构学习观",
+    "计算机/毕设/素材",
+    "计算机/机器学习/教材笔记/Mathematics for Machine Learning",
+    "计算机/机器学习/教材笔记",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
+    "数学/概率论/Introduction to Probability, Statistics, and Random Processes/attachments/LOT_b.png",
+    "计算机/机器学习/探索路线",
+    "计算机/机器学习/课堂笔记/1.1 监督学习.svg",
+    "计算机/机器学习/课堂笔记/1.1 监督学习.png",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg"
   ]
 }
