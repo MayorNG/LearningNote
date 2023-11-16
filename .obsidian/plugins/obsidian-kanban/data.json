@@ -7,15 +7,23 @@
       "unit": "days",
       "direction": "after",
       "isToday": true,
-      "color": "rgba(51, 241, 8, 1)"
+      "color": "rgba(242, 7, 7, 1)"
     },
     {
-      "distance": 1,
+      "distance": 7,
       "unit": "days",
       "direction": "after",
-      "isBefore": true,
-      "color": "rgba(84, 84, 84, 1)"
+      "color": "rgba(255, 186, 24, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 30,
+      "unit": "days",
+      "direction": "after",
+      "color": "rgba(94, 255, 0, 1)"
     }
   ],
-  "tag-colors": []
+  "tag-colors": [],
+  "hide-tags-in-title": true,
+  "archive-with-date": true
 }

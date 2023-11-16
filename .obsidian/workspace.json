@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f24ea501d72bb5f7",
+        "id": "1d76c45f3c5f063b",
         "type": "tabs",
         "children": [
           {
-            "id": "0bbc00aa691648f8",
+            "id": "8046eda22e2552e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "KANBAN.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KANBAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KANBAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KANBAN.md"
+              }
             }
           },
           {
@@ -144,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "KANBAN.md"
+              }
             }
           },
           {
@@ -172,11 +180,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0bbc00aa691648f8",
+  "active": "8046eda22e2552e6",
   "lastOpenFiles": [
+    "KANBAN.md",
     "全符号速查 备份.md",
     "新建 文本文档.txt",
-    "KANBAN.md",
     "TODO.md",
     "Tags.md",
     "README.md",
